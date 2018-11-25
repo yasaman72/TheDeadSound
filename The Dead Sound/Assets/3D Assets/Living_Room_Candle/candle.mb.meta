@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: d4b9e9c0f038bed498fe8212d2809dd9
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: candle1
+    100004: candleGroup
+    100006: candlestand1
+    100008: candlestand2
+    100010: candlestand3
+    100012: curveFlameCurly
+    100014: curveFlameCurly1
+    100016: curveFlameCurly2
+    100018: curveFlameCurly3
+    100020: curveFlameCurly4
+    100022: curveFlameCurly5
+    100024: curveFlameCurly6
+    100026: curveFlameCurly7
+    100028: curveFlameFine
+    100030: curveLargeFlames
+    100032: directionalLight1
+    100034: flame1
+    100036: flame2
+    100038: flame3
+    100040: flameCurly1Main
+    100042: flameCurly7Main
+    100044: flameCurly9Main
+    100046: flames1poly
+    100048: flames2poly
+    100050: flames3poly
+    100052: stand1
+    100054: stand2
+    100056: stand3
+    100058: strokeFlameCurly1
+    100060: strokeFlameCurly5
+    100062: strokeFlameCurly7
+    100064: wax1
+    100066: wax2
+    100068: wax3
+    100070: wick
+    100072: wick 1
+    100074: wick 2
+    400000: //RootNode
+    400002: candle1
+    400004: candleGroup
+    400006: candlestand1
+    400008: candlestand2
+    400010: candlestand3
+    400012: curveFlameCurly
+    400014: curveFlameCurly1
+    400016: curveFlameCurly2
+    400018: curveFlameCurly3
+    400020: curveFlameCurly4
+    400022: curveFlameCurly5
+    400024: curveFlameCurly6
+    400026: curveFlameCurly7
+    400028: curveFlameFine
+    400030: curveLargeFlames
+    400032: directionalLight1
+    400034: flame1
+    400036: flame2
+    400038: flame3
+    400040: flameCurly1Main
+    400042: flameCurly7Main
+    400044: flameCurly9Main
+    400046: flames1poly
+    400048: flames2poly
+    400050: flames3poly
+    400052: stand1
+    400054: stand2
+    400056: stand3
+    400058: strokeFlameCurly1
+    400060: strokeFlameCurly5
+    400062: strokeFlameCurly7
+    400064: wax1
+    400066: wax2
+    400068: wax3
+    400070: wick
+    400072: wick 1
+    400074: wick 2
+    2100000: flameCurly9Shader
+    2100002: wickcolor
+    2100004: lambert2
+    2100006: candleStand
+    2100008: flameCurly7Shader
+    2100010: flameCurly1Shader
+    2300000: flameCurly1Main
+    2300002: flameCurly7Main
+    2300004: flameCurly9Main
+    2300006: stand1
+    2300008: stand2
+    2300010: stand3
+    2300012: wax1
+    2300014: wax2
+    2300016: wax3
+    2300018: wick
+    2300020: wick 1
+    2300022: wick 2
+    3300000: flameCurly1Main
+    3300002: flameCurly7Main
+    3300004: flameCurly9Main
+    3300006: stand1
+    3300008: stand2
+    3300010: stand3
+    3300012: wax1
+    3300014: wax2
+    3300016: wax3
+    3300018: wick
+    3300020: wick 1
+    3300022: wick 2
+    4300000: flameCurly9Main
+    4300002: wick
+    4300004: wax3
+    4300006: stand1
+    4300008: wick
+    4300010: flameCurly7Main
+    4300012: wax2
+    4300014: stand2
+    4300016: stand3
+    4300018: wax1
+    4300020: wick
+    4300022: flameCurly1Main
+    10800000: directionalLight1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

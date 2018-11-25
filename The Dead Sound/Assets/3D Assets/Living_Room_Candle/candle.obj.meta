@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: 865f3c1e0b67c1e4fb6c6f4ab1998de1
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: candleGroup_candlestand1_candle1_flame1_flameCurly1Main_flames1poly
+    100004: candleGroup_candlestand1_candle1_wick_flame1
+    100006: candleGroup_candlestand1_wax1_candle1
+    100008: candleGroup_candlestand2_flame2_flameCurly7Main_flames2poly
+    100010: candleGroup_candlestand2_stand2
+    100012: candleGroup_candlestand2_wick_flame2
+    100014: candleGroup_stand3_candlestand1
+    100016: candleGroup_wax2_candlestand2
+    100018: candlestand3_candleGroup_flame3_flameCurly9Main_flames3poly
+    100020: candlestand3_candleGroup_stand1
+    100022: candlestand3_candleGroup_wick_flame3
+    100024: wax3_candlestand3_candleGroup
+    400000: //RootNode
+    400002: candleGroup_candlestand1_candle1_flame1_flameCurly1Main_flames1poly
+    400004: candleGroup_candlestand1_candle1_wick_flame1
+    400006: candleGroup_candlestand1_wax1_candle1
+    400008: candleGroup_candlestand2_flame2_flameCurly7Main_flames2poly
+    400010: candleGroup_candlestand2_stand2
+    400012: candleGroup_candlestand2_wick_flame2
+    400014: candleGroup_stand3_candlestand1
+    400016: candleGroup_wax2_candlestand2
+    400018: candlestand3_candleGroup_flame3_flameCurly9Main_flames3poly
+    400020: candlestand3_candleGroup_stand1
+    400022: candlestand3_candleGroup_wick_flame3
+    400024: wax3_candlestand3_candleGroup
+    2100000: candleGroup_candlestand1_candle1_flame1_flameCurly1Main_flames1polyMat
+    2100002: candleGroup_candlestand1_candle1_wick_flame1Mat
+    2100004: candleGroup_candlestand1_wax1_candle1Mat
+    2100006: candleGroup_candlestand2_flame2_flameCurly7Main_flames2polyMat
+    2100008: candleGroup_candlestand2_stand2Mat
+    2100010: candleGroup_candlestand2_wick_flame2Mat
+    2100012: candleGroup_stand3_candlestand1Mat
+    2100014: candleGroup_wax2_candlestand2Mat
+    2100016: candlestand3_candleGroup_flame3_flameCurly9Main_flames3polyMat
+    2100018: candlestand3_candleGroup_stand1Mat
+    2100020: candlestand3_candleGroup_wick_flame3Mat
+    2100022: wax3_candlestand3_candleGroupMat
+    2300000: candleGroup_candlestand1_candle1_flame1_flameCurly1Main_flames1poly
+    2300002: candleGroup_candlestand1_candle1_wick_flame1
+    2300004: candleGroup_candlestand1_wax1_candle1
+    2300006: candleGroup_candlestand2_flame2_flameCurly7Main_flames2poly
+    2300008: candleGroup_candlestand2_stand2
+    2300010: candleGroup_candlestand2_wick_flame2
+    2300012: candleGroup_stand3_candlestand1
+    2300014: candleGroup_wax2_candlestand2
+    2300016: candlestand3_candleGroup_flame3_flameCurly9Main_flames3poly
+    2300018: candlestand3_candleGroup_stand1
+    2300020: candlestand3_candleGroup_wick_flame3
+    2300022: wax3_candlestand3_candleGroup
+    3300000: candleGroup_candlestand1_candle1_flame1_flameCurly1Main_flames1poly
+    3300002: candleGroup_candlestand1_candle1_wick_flame1
+    3300004: candleGroup_candlestand1_wax1_candle1
+    3300006: candleGroup_candlestand2_flame2_flameCurly7Main_flames2poly
+    3300008: candleGroup_candlestand2_stand2
+    3300010: candleGroup_candlestand2_wick_flame2
+    3300012: candleGroup_stand3_candlestand1
+    3300014: candleGroup_wax2_candlestand2
+    3300016: candlestand3_candleGroup_flame3_flameCurly9Main_flames3poly
+    3300018: candlestand3_candleGroup_stand1
+    3300020: candlestand3_candleGroup_wick_flame3
+    3300022: wax3_candlestand3_candleGroup
+    4300000: candleGroup_candlestand1_candle1_flame1_flameCurly1Main_flames1poly
+    4300002: candleGroup_candlestand1_candle1_wick_flame1
+    4300004: candleGroup_candlestand1_wax1_candle1
+    4300006: candleGroup_candlestand2_flame2_flameCurly7Main_flames2poly
+    4300008: candleGroup_candlestand2_stand2
+    4300010: candleGroup_candlestand2_wick_flame2
+    4300012: candleGroup_stand3_candlestand1
+    4300014: candleGroup_wax2_candlestand2
+    4300016: candlestand3_candleGroup_flame3_flameCurly9Main_flames3poly
+    4300018: candlestand3_candleGroup_stand1
+    4300020: candlestand3_candleGroup_wick_flame3
+    4300022: wax3_candlestand3_candleGroup
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
